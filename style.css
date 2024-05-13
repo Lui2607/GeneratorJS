@@ -1,0 +1,9 @@
+body {
+    background-image: url(https://gagaru.club/uploads/posts/2023-06/1685982053_gagaru-club-p-mnogo-lits-fon-6.jpg);
+    position: absolute;
+    top: 50%;
+	left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+   
+}
